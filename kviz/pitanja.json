@@ -1,0 +1,29 @@
+[
+  {
+    "pitanje": "Koja je prijestolnica Hrvatske?",
+    "odgovori": [
+      { "tekst": "Zagreb", "tocan": true },
+      { "tekst": "Split", "tocan": false },
+      { "tekst": "Rijeka", "tocan": false },
+      { "tekst": "Osijek", "tocan": false }
+    ]
+  },
+  {
+    "pitanje": "Koji je najveci otok u Hrvatskoj?",
+    "odgovori": [
+      { "tekst": "Krk", "tocan": true },
+      { "tekst": "Cres", "tocan": false },
+      { "tekst": "Hvar", "tocan": false },
+      { "tekst": "Brac", "tocan": false }
+    ]
+  },
+  {
+    "pitanje": "Koji je najviši vrh Hrvatske?",
+    "odgovori": [
+      { "tekst": "Dinara", "tocan": true },
+      { "tekst": "Velebit", "tocan": false },
+      { "tekst": "Biokovo", "tocan": false },
+      { "tekst": "Medvednica", "tocan": false }
+    ]
+  }
+]
