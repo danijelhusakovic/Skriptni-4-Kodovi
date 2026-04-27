@@ -1,0 +1,6 @@
+Ovaj kod se nastavlja na kod za 3: pretpostavlja da imaš
+bazu "ispit" i tablicu "ucenici" s imenom i prezimenom.
+Bilo bi dobro da imaš 2-3 učenika dodano u tablicu
+Ovaj kod će ti ih sve ispisati.
+Izgleda komplicirano, ali PHP samo generira HTMl kod za table
+

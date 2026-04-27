@@ -1,0 +1,6 @@
+Pokreni xampp i startaj apache i mysql
+upali chrome i odi na localhost, pa tamo odaberi config.php
+ispisat će ti error, ne postoji baza, to je dobro
+odi na localhost/phpmyadmin i dodaj bazu "ispit" (lijevo imaš "New" na vrhu)
+sada ti treba ispisati da si uspješno spojen na bazu
+To je dvojka

@@ -1,0 +1,11 @@
+U localhost/phpmyadmin odi gore na "SQL" i prekopiraj ovaj kod, on će ti stvorit tablicu:
+CREATE TABLE ucenici (
+id INT AUTO_INCREMENT PRIMARY KEY,
+ime VARCHAR (50),
+prezime VARCHAR(50)
+);
+stisni go
+Sada imaš tablicu "ucenici" s imenom i prezimenom
+Pokreni "3 Forma i INSERT" i unesi ime i prezime, klikni submit
+odi na phpmyadmin i vidi u tablici jesu ti dodani
+ako jesu, imaš 3

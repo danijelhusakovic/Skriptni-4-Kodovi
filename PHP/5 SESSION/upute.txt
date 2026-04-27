@@ -1,0 +1,4 @@
+Vrlo jednostavno, uopće ne provjerava s bazom.
+Klikni Login i piše ti da si prijavljen.
+Klikni Logout i piše ti da nisi prijavljen.
+Ako imaš ovo i sve prije, to ti je petica :)
